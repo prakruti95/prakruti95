@@ -81,6 +81,7 @@ Comprehensive API testing using Postman with validations and real-world scenario
 📫 Let’s Connect
 
 💼 LinkedIn: https://www.linkedin.com/in/prakruti-vyas-15010b134
+
 📧 Email: prakrutimehta701@gmail.com
 
 ---
